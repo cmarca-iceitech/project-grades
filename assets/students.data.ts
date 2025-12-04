@@ -1,9 +1,0 @@
-export const studentsData = [
-  {"name": "APAZA CALIZAYA ALBA NICOLE", "firstPartial": 30, "secondPartial": 30, "finalExam": 30, "email": "albapazacal03@gmail.com", "fair": 0},
-  {"name": "CHICHINCA CALLATA JUDITH NOEMI", "firstPartial": 25, "secondPartial": 0, "finalExam": 0, "email": "chichichincacallatanoemi@gmail.com", "fair": 0},
-  {"name": "COPA MAMANI JOEL EDDY", "firstPartial": 24, "secondPartial": 29, "finalExam": 16, "email": "JoelCopa01@gmail.com", "fair": 0},
-  {"name": "HUANDIA TORREZ JOSE ARMANDO", "firstPartial": 30, "secondPartial": 30, "finalExam": 30, "email": "61817641a@gmail.com", "fair": 0},
-  {"name": "JIMENEZ GUZMAN ELIAN JUAQUIN", "firstPartial": 24, "secondPartial": 26, "finalExam": 25, "email": "elijan044@gmail.com", "fair": 0},
-  {"name": "LOZA CAHUAYA RANDOL IDOL", "firstPartial": 17, "secondPartial": 22, "finalExam": 17, "email": "brandolloza@gmail.com", "fair": 0},
-  {"name": "ZULETA MAMANI JUAN ARMANDO", "firstPartial": 29, "secondPartial": 26, "finalExam": 25, "email": "juanes207@gmail.com", "fair": 0},
-];
