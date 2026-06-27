@@ -1,1 +1,8 @@
-[]
+[
+  {"name": "BEJARANO QUISPE IVAN ABAD", "email": "abadbejarano305@gmail.com", "firstPartial": 20, "secondPartial": 23, "finalExam": 20, "fair": 10},
+  {"name": "CAMACHO VARGAS DARWIN ORLANDO", "email": "vargasorlandodarwin@gmail.com", "firstPartial": 29, "secondPartial": 27, "finalExam": 21, "fair": 10},
+  {"name": "LAURA SIRPA NELY", "email": "nelylau46@gmail.com", "firstPartial": 29, "secondPartial": 25, "finalExam": 21, "fair": 10},
+  {"name": "MAMANI MONTAÑO DIEGO", "email": "mamanimontanodiego@gmail.com", "firstPartial": 25, "secondPartial": 29, "finalExam": 29, "fair": 10},
+  {"name": "PALLE CHAMBI ROMARIO", "email": "romariopalleub2025@gmail.com", "firstPartial": 0, "secondPartial": 0, "finalExam": 0, "fair": 0},
+  {"name": "PINEDO CHOQUE JHON MICHAEL", "email": "pinedochoquejohnmichael@gmail.com", "firstPartial": 30, "secondPartial": 30, "finalExam": 21, "fair": 10}
+]
