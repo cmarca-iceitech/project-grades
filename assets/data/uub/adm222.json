@@ -1,13 +1,5 @@
 [
   {
-    "name": "FLORES RAMOS MARIA ELENA",
-    "email": "",
-    "firstPartial": 28,
-    "secondPartial": 26,
-    "finalExam": 25,
-    "fair": 10
-  },
-  {
     "name": "ANDALUZ VASQUEZ NANCY",
     "email": "",
     "firstPartial": 20,
@@ -16,19 +8,11 @@
     "fair": 10
   },
   {
-    "name": "PATZI TICONA XIMENA",
-    "email": "",
-    "firstPartial": 26,
-    "secondPartial": 21,
-    "finalExam": 25,
-    "fair": 10
-  },
-  {
-    "name": "MAMANI HUALLPA SAID",
+    "name": "FLORES RAMOS MARIA ELENA",
     "email": "",
     "firstPartial": 28,
-    "secondPartial": 22,
-    "finalExam": 24,
+    "secondPartial": 26,
+    "finalExam": 25,
     "fair": 10
   },
   {
@@ -38,5 +22,21 @@
     "secondPartial": 26,
     "finalExam": 35,
     "fair": 89
+  },  
+  {
+    "name": "MAMANI HUALLPA SAID",
+    "email": "",
+    "firstPartial": 28,
+    "secondPartial": 22,
+    "finalExam": 24,
+    "fair": 10
+  },
+  {
+    "name": "PATZI TICONA XIMENA",
+    "email": "",
+    "firstPartial": 26,
+    "secondPartial": 21,
+    "finalExam": 25,
+    "fair": 10
   }
 ]
